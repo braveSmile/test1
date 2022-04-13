@@ -1,7 +1,7 @@
 # 计算机视觉方向顶级会议和顶级期刊
 
 
-计算机视觉（Computer Vision，简称CV）方向是一个非常热门的方向，有关CV的会议和期刊因此也有很多，这里我介绍CV方向的三个顶级会议和两个顶级期刊。
+计算机视觉（Computer Vision，简称CV）方向是一个非常热门的方向，有关CV的会议和期刊因此也有很多，这里我介绍CV方向的三个顶级会议和两个顶级期刊。/n
 
 ## 三大顶会
 CV方向的顶级会议包括国际计算机视觉大会（IEEE International Conference on Computer Vision，简称ICCV）、欧洲计算机视觉会议（European Conference on Computer Vision，简称ECCV）、国际计算机视觉与模式识别会议（Conference on Computer Vision and Pattern Recognition，简称CVPR），下面分别介绍它们。
